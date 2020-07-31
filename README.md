@@ -1,6 +1,7 @@
 # KnowveesJS
 ~~www.javascript30.com
 Trying to get busy with a little JavaScript Challenge~~
+##### -
 So, I discovered [Asabeneh](https://dev.to/asabeneh/30-days-of-javascript-challenge-56kd) Dev article and I think its more detailed than the initial Javascript30.
 
 ## Some Javascript random stuff to actually get myself busy. 
